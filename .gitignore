@@ -1,6 +1,6 @@
 # User specific & automatically generated files #
 #################################################
-/App/Config/database.php
+#/App/Config/database.php
 /App/tmp
 /App/Console/Templates/skel/tmp/
 /Plugin
